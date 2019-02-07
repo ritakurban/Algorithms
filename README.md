@@ -1,1 +1,2 @@
-# Assignments
+# Algorithms
+Applied core concepts in design and analysis of algorithms, data structures, and computational problem-solving techniques to address complex problems. Hashing, searching, sorting, graph algorithms, dynamic programming, greedy algorithms, divide and conquer, backtracking, random number generation, and randomized algorithms are examples of algorithms I learned to exploit to solve problems ranging from logistics to route optimization to robotic arm control.
